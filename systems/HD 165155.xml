@@ -1,0 +1,27 @@
+<system>
+	<name>HD 165155</name>
+	<rightascension>18 05 57</rightascension>
+	<declination>-29 55 02</declination>
+	<star>
+		<name>HD 165155</name>
+		<radius errorminus="-0.11" errorplus="0.11">0.95</radius>
+		<magV>9.360</magV>
+		<magJ errorminus="0.023" errorplus="0.023">8.027</magJ>
+		<magH errorminus="0.042" errorplus="0.042">7.690</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.584</magK>
+		<mass errorminus="-0.05" errorplus="0.05">1.02</mass>
+		<temperature errorminus="-100.00" errorplus="100.00">5426.00</temperature>
+		<metallicity>0.090</metallicity>
+		<planet>
+			<name>HD 165155 b</name>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.040000">1.130000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.200000</eccentricity>
+			<periastron errorminus="-11.4600" errorplus="11.4600">211.9900</periastron>
+			<period errorminus="-2.10000000" errorplus="2.10000000">434.50000000</period>
+			<mass errorminus="-0.23000" errorplus="0.23000">2.89000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>2016-11-10</lastupdate>
+		</planet>
+	</star>
+</system>
