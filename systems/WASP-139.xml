@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-139</name>
+	<rightascension>03 18 15</rightascension>
+	<declination>-41 18 08</declination>
+	<star>
+		<name>WASP-139</name>
+		<radius errorminus="-0.04" errorplus="0.04">0.80</radius>
+		<magV>12.400</magV>
+		<magJ errorminus="0.019" errorplus="0.019">10.982</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.575</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.472</magK>
+		<mass errorminus="-0.10" errorplus="0.10">0.92</mass>
+		<temperature errorminus="-90.00" errorplus="90.00">5310.00</temperature>
+		<metallicity>0.200</metallicity>
+		<planet>
+			<name>WASP-139 b</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.062000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.500" errorplus="0.500">88.900</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">5.92426200</period>
+			<mass errorminus="-0.01700" errorplus="0.01700">0.11700</mass>
+			<radius errorminus="-0.050" errorplus="0.050">0.800</radius>
+			<temperature errorminus="-30" errorplus="30">910</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>2016-12-01</lastupdate>
+			<transittime errorminus="-0.000300" errorplus="0.000300">2457196.793300</transittime>
+		</planet>
+	</star>
+</system>
