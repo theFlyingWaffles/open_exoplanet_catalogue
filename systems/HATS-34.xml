@@ -1,0 +1,30 @@
+<system>
+	<name>HATS-34</name>
+	<rightascension>00 03 06</rightascension>
+	<declination>-62 28 10</declination>
+	<star>
+		<name>HATS-34</name>
+		<radius errorminus="-0.05" errorplus="0.05">0.98</radius>
+		<magV errorminus="0.010" errorplus="0.010">13.849</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.513</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.139</magH>
+		<magK errorminus="0.017" errorplus="0.017">12.095</magK>
+		<mass errorminus="-0.03" errorplus="0.03">0.95</mass>
+		<temperature errorminus="-73.00" errorplus="73.00">5380.00</temperature>
+		<metallicity>0.250</metallicity>
+		<planet>
+			<name>HATS-34 b</name>
+			<semimajoraxis errorminus="-0.000340" errorplus="0.000340">0.031660</semimajoraxis>
+			<eccentricity>0.108000</eccentricity>
+			<inclination errorminus="-0.590" errorplus="0.430">82.280</inclination>
+			<period errorminus="-0.00000470" errorplus="0.00000470">2.10616070</period>
+			<mass errorminus="-0.07200" errorplus="0.07200">0.94100</mass>
+			<radius errorminus="-0.190" errorplus="0.190">1.430</radius>
+			<temperature errorminus="-42" errorplus="42">1445</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>2016-12-01</lastupdate>
+			<transittime errorminus="-0.000750" errorplus="0.000750">2456634.857320</transittime>
+		</planet>
+	</star>
+</system>
