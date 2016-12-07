@@ -1,0 +1,27 @@
+<system>
+	<name>HD 86950</name>
+	<rightascension>10 01 38</rightascension>
+	<declination>-17 19 59</declination>
+	<star>
+		<name>HD 86950</name>
+		<radius errorminus="-0.60" errorplus="0.60">8.80</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.459</magV>
+		<magJ errorminus="0.021" errorplus="0.021">5.692</magJ>
+		<magH errorminus="0.021" errorplus="0.021">5.194</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.038</magK>
+		<mass errorminus="-0.25" errorplus="0.25">1.66</mass>
+		<temperature errorminus="-100.00" errorplus="100.00">4805.00</temperature>
+		<metallicity>0.040</metallicity>
+		<planet>
+			<name>HD 86950 b</name>
+			<semimajoraxis errorminus="-0.080000" errorplus="0.080000">2.720000</semimajoraxis>
+			<eccentricity errorminus="-0.160000" errorplus="0.160000">0.170000</eccentricity>
+			<periastron errorminus="-70.0000" errorplus="70.0000">243.0000</periastron>
+			<period errorminus="-57.00000000" errorplus="57.00000000">1270.00000000</period>
+			<mass errorminus="-0.70000" errorplus="0.70000">3.60000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>2016-12-01</lastupdate>
+		</planet>
+	</star>
+</system>
